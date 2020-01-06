@@ -80,11 +80,5 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\..\..\QuantumBlog-master\1 A Beginner%27s Guide to QC\1 Bell%28bb84%29\Bell\Bell.csproj">
-      <Project>{15ae17f7-e5dc-4d9c-85b9-2bce8ebfc7aa}</Project>
-      <Name>Bell</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

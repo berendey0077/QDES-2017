@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DES 2017", "DES 2017\DES 2017.csproj", "{DC383098-5E38-4B3E-9E61-D48FC3DC3CC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bell", "..\..\..\QuantumBlog-master\1 A Beginner's Guide to QC\1 Bell(bb84)\Bell\Bell.csproj", "{15AE17F7-E5DC-4D9C-85B9-2BCE8EBFC7AA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bell", "..\1 Bell(bb84)\Bell\Bell.csproj", "{15AE17F7-E5DC-4D9C-85B9-2BCE8EBFC7AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

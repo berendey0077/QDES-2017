@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Security.Cryptography;
 using System.IO;
-using Quantum.Bell;
+//using Quantum.Bell;
 
 
 namespace DES_2017
